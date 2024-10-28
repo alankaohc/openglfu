@@ -16,6 +16,7 @@
 
 #include "LightDirectional.h"
 #include "LightPoint.h"
+#include "LightSpot.h"
 
 // settings
 const unsigned int SCR_WIDTH = 800;
@@ -84,12 +85,13 @@ glm::vec3 cubePositions[] = {
 #pragma region Camera Declare 
 // Instanciate Camera class
 //Camera camera(glm::vec3(0,0,3.0f), glm::vec3(0,0,0), glm::vec3(0,1.0f,0));
-Camera camera(glm::vec3(0, 0, 3.0f), 10.0f, 0.0f, glm::vec3(0, 1.0f, 0));
+Camera camera(glm::vec3(0, 5.0, 0.0f), 290.0f, 0.0f, glm::vec3(0, 1.0f, 0));
 #pragma endregion
 
 #pragma region Light Declare
 //LightDirectional light = LightDirectional(glm::vec3(0.0f, 10.0f, -5.0f), glm::vec3(glm::radians(45.0f), 0, 0), glm::vec3(10.0, 0, 0));
-LightPoint light = LightPoint(glm::vec3(1.0f, 1.0f, -2.0f), glm::vec3(glm::radians(45.0f), 0, 0), glm::vec3(5.0, 5.0, 5.0));
+//LightPoint light = LightPoint(glm::vec3(1.0f, 1.0f, -2.0f), glm::vec3(glm::radians(45.0f), 0, 0), glm::vec3(5.0, 5.0, 5.0));
+LightSpot light = LightSpot(glm::vec3(0.0f, 5.0f, 0.0f), glm::vec3(glm::radians(90.0f), 0, 0), glm::vec3(2.0, 2.0, 2.0));
 
 #pragma endregion
 
@@ -305,10 +307,12 @@ int main()
             glUniform3f(glGetUniformLocation(myShader->ID, "lightColor"), light.color.x, light.color.y, light.color.z);
             glUniform3f(glGetUniformLocation(myShader->ID, "lightDirUniform"), light.direction.x, light.direction.y, light.direction.z);
             glUniform3f(glGetUniformLocation(myShader->ID, "cameraPos"), camera.Position.x, camera.Position.y, camera.Position.z);
-            
-            glUniform1f(glGetUniformLocation(myShader->ID, "lightP.constant"), light.constant);
-            glUniform1f(glGetUniformLocation(myShader->ID, "lightP.linear"), light.linear);
-            glUniform1f(glGetUniformLocation(myShader->ID, "lightP.quadratic"), light.quadratic);
+            glUniform1f(glGetUniformLocation(myShader->ID, "lightS.cosPhiInner"), light.cosPhiInner);
+            glUniform1f(glGetUniformLocation(myShader->ID, "lightS.cosPhiOutter"), light.cosPhiOutter);
+
+            //glUniform1f(glGetUniformLocation(myShader->ID, "lightP.linear"), light.linear);
+            //glUniform1f(glGetUniformLocation(myShader->ID, "lightP.constant"), light.constant);
+            //glUniform1f(glGetUniformLocation(myShader->ID, "lightP.quadratic"), light.quadratic);
 
 
 

@@ -1,61 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\",
+  "WorkspaceRootPath": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\fragmentSource.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\fragmentSource.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:fragmentSource.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\vertexSource.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\lightPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:lightPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\lightPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:lightPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\vertexSource.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:vertexSource.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Libraries\\include\\GLFW\\glfw3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Libraries\\include\\GLFW\\glfw3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\LightDirectional.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:LightDirectional.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\LightDirectional.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:LightDirectional.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Libraries\\include\\GLFW\\glfw3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Libraries\\include\\GLFW\\glfw3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{12E0D250-A766-4B2A-9E02-3CB12D7B7C29}|openglTest01.vcxproj|solutionrelative:Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -71,75 +87,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Material.cpp",
-              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Material.cpp",
-              "RelativeDocumentMoniker": "Material.cpp",
-              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Material.cpp",
-              "RelativeToolTip": "Material.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "LightPoint.cpp",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\LightPoint.cpp",
+              "RelativeDocumentMoniker": "LightPoint.cpp",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\LightPoint.cpp",
+              "RelativeToolTip": "LightPoint.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-20T09:02:25.224Z",
+              "WhenOpened": "2024-10-28T09:12:12.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Material.h",
-              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Material.h",
-              "RelativeDocumentMoniker": "Material.h",
-              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Material.h",
-              "RelativeToolTip": "Material.h",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "LightPoint.h",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\LightPoint.h",
+              "RelativeDocumentMoniker": "LightPoint.h",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\LightPoint.h",
+              "RelativeToolTip": "LightPoint.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA+wBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-20T08:57:58.198Z",
+              "WhenOpened": "2024-10-28T09:11:06.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\main.cpp",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAPQAAAAAAAAAAAAAAAEBAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwFsAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-19T11:14:25.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "vertexSource.vert",
-              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\vertexSource.vert",
-              "RelativeDocumentMoniker": "vertexSource.vert",
-              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\vertexSource.vert",
-              "RelativeToolTip": "vertexSource.vert",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-20T02:56:47.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "fragmentSource.frag",
-              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\fragmentSource.frag",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\fragmentSource.frag",
               "RelativeDocumentMoniker": "fragmentSource.frag",
-              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\fragmentSource.frag",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\fragmentSource.frag",
               "RelativeToolTip": "fragmentSource.frag",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwDcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-10-20T02:53:58.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
+              "Title": "LightDirectional.cpp",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\LightDirectional.cpp",
+              "RelativeDocumentMoniker": "LightDirectional.cpp",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\LightDirectional.cpp",
+              "RelativeToolTip": "LightDirectional.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T08:17:32.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LightDirectional.h",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\LightDirectional.h",
+              "RelativeDocumentMoniker": "LightDirectional.h",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\LightDirectional.h",
+              "RelativeToolTip": "LightDirectional.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T07:58:07.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Material.cpp",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Material.cpp",
+              "RelativeDocumentMoniker": "Material.cpp",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Material.cpp",
+              "RelativeToolTip": "Material.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T09:02:25.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Material.h",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Material.h",
+              "RelativeDocumentMoniker": "Material.h",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Material.h",
+              "RelativeToolTip": "Material.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T08:57:58.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vertexSource.vert",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\vertexSource.vert",
+              "RelativeDocumentMoniker": "vertexSource.vert",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\vertexSource.vert",
+              "RelativeToolTip": "vertexSource.vert",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-20T02:56:47.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Mesh.cpp",
-              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Mesh.cpp",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Mesh.cpp",
               "RelativeDocumentMoniker": "Mesh.cpp",
-              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Mesh.cpp",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Mesh.cpp",
               "RelativeToolTip": "Mesh.cpp",
               "ViewState": "AgIAAAgAAAAAAAAAAADwvxoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -147,11 +211,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Mesh.h",
-              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Mesh.h",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Mesh.h",
               "RelativeDocumentMoniker": "Mesh.h",
-              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Mesh.h",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Mesh.h",
               "RelativeToolTip": "Mesh.h",
               "ViewState": "AgIAAAcAAAAAAAAAAAAkwBsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -159,11 +223,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "glad.c",
-              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\glad.c",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\glad.c",
               "RelativeDocumentMoniker": "glad.c",
-              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\glad.c",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\glad.c",
               "RelativeToolTip": "glad.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -171,11 +235,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Camera.cpp",
-              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Camera.cpp",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Camera.cpp",
               "RelativeDocumentMoniker": "Camera.cpp",
-              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Camera.cpp",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Camera.cpp",
               "RelativeToolTip": "Camera.cpp",
               "ViewState": "AgIAAB8AAAAAAAAAAAD4vycAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -185,21 +249,21 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Camera.h",
-              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Camera.h",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Camera.h",
               "RelativeDocumentMoniker": "Camera.h",
-              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Camera.h",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Camera.h",
               "RelativeToolTip": "Camera.h",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-20T00:29:31.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "stb_image.h",
-              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\stb_image.h",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\stb_image.h",
               "RelativeDocumentMoniker": "stb_image.h",
-              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\stb_image.h",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\stb_image.h",
               "RelativeToolTip": "stb_image.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -207,42 +271,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "glfw3.h",
-              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Libraries\\include\\GLFW\\glfw3.h",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Libraries\\include\\GLFW\\glfw3.h",
               "RelativeDocumentMoniker": "Libraries\\include\\GLFW\\glfw3.h",
-              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Libraries\\include\\GLFW\\glfw3.h",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Libraries\\include\\GLFW\\glfw3.h",
               "RelativeToolTip": "Libraries\\include\\GLFW\\glfw3.h",
               "ViewState": "AgIAAJUMAAAAAAAAAAAjwKIMAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-19T08:12:16.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T08:12:16.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Shader.cpp",
-              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Shader.cpp",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Shader.cpp",
               "RelativeDocumentMoniker": "Shader.cpp",
-              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Shader.cpp",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Shader.cpp",
               "RelativeToolTip": "Shader.cpp",
               "ViewState": "AgIAADgAAAAAAAAAAAD4v0cAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-19T06:50:59.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T06:50:59.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Shader.h",
-              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Shader.h",
+              "DocumentMoniker": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Shader.h",
               "RelativeDocumentMoniker": "Shader.h",
-              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01\\Shader.h",
+              "ToolTip": "C:\\Users\\CGAL5\\Documents\\opengl\\fu\\programs2\\openglTest01 - Lighting Maps\\Shader.h",
               "RelativeToolTip": "Shader.h",
               "ViewState": "AgIAAAQAAAAAAAAAAAAzwBIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-19T06:48:46.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T06:48:46.761Z"
             }
           ]
         }
